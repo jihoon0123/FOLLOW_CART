@@ -99,7 +99,7 @@ GPS 및 지자기 센서 라이브러리: 위치와 방향 추적을 위한 라�
 **팀 인원**: 3명 김지훈, 김영빈, 최성락
 
 
-[07_J1_202200129 스마트폰의 Bluetooth 기능을 활용한  실외용 스마트 팔로우 īƮ.pdf](https://github.com/user-attachments/files/19929661/07_J1_202200129.Bluetooth.i.pdf)
+https://drive.google.com/file/d/1Wbt2eypEIRSh9QpMafkUps8rhqrTpsNU/view?usp=sharing
 
 
 
