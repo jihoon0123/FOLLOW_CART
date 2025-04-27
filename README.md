@@ -23,7 +23,8 @@ DC 모터와 모터 드라이버 (L298N): 카트의 움직임을 제어
 
 ### 💻 소프트웨어
 
-![소프웨어](https://github.com/user-attachments/assets/a458e48f-f22d-4e65-92a8-f24b515730ee)
+
+![소프웨어s](https://github.com/user-attachments/assets/fd2eca7e-a570-48cd-8753-2a2f98b4e214)
 
 
 Arduino IDE: 코드 작성 및 업로드
